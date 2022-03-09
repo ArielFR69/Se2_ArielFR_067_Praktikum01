@@ -1,4 +1,4 @@
-//* Revina Aurigha Firdaus (21091397003)
+
 
 #include <iostream>
 #include <conio.h>
